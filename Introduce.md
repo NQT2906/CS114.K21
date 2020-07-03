@@ -7,8 +7,8 @@ Input: Ảnh chụp mặt đường
 Output : Có hoặc không ổ gà trong ảnh.
 Mô tả về bộ dữ liệu
 
-Tự xây dựng + thu thập bộ dữ liệu :
-Thu thập hoặc tự chụp các tấm ảnh trên đường hoặc trên mạng.
+Tự xây dựng bộ dữ liệu :
+Chụp các tấm ảnh có ổ gà hoặc không, nếu có ổ gà thì ổ gà cách xa 10 - 15m. Góc chụp là dưới ngực.
 Toàn bộ ảnh được chụp lúc trời sáng không chụp trong điều kiện âm u hay mờ mờ tối.
 
 Số lượng, độ đa dạng:
