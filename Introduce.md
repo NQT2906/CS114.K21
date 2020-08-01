@@ -17,18 +17,18 @@ Số lượng, độ đa dạng:
 Các thao tác tiền xử lý dữ liệu:
 Dùng HOG để trích xuất đặc trưng các ổ gà có trong ảnh.
 
-Phân chia dữ liệu 2/3 train / 1/3 test : 200 train / 100 test.
+Phân chia dữ liệu 80% train / 20% test : 240 train / 60 test.
 
 Mô tả về thuật toán máy học.
 
-Sử dụng RCNN làm bộ phân loại.
+Sử dụng 2 model để huấn luyện với tập dữ liệu là Logistic Regression và Support Vector Machine.
 
 Cài đặt, tinh chỉnh tham số.
 
 Thực hiện xây dựng chương trình demo trên Colab.
 
-Điều chỉnh các tham số về scale ảnh, threshold binary image, epochs, ..vv
+Điều chỉnh các tham số về scale ảnh, threshold binary image, ..vv
 
 Đánh giá kết quả, kết luận.
 
-Sử dụng độ đo MAP.
+Sử dụng độ đo accuracy, recall, f1 và presion để tiến hành đánh giá chất lượng model.
